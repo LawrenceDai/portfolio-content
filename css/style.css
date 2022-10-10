@@ -13,10 +13,6 @@ header img {
   margin: 0 auto;
 }
 
-header img:hover {
-  box-shadow: 0 0 0 white;
-}
-
 nav ul {
   list-style-type: none;
   margin: 0;
